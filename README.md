@@ -1,5 +1,6 @@
 # RealtimeDataStreamingToCassandra
-*API Data Extraction: Personal data is retrieved from an external API.
+
+* API Data Extraction: Personal data is retrieved from an external API.
 
 * Apache Airflow manages the scheduling and orchestration of tasks across various stages, ensuring a smooth workflow from extraction to final storage.
 
